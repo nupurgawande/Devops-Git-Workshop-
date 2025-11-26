@@ -1,1 +1,4 @@
-make a change 
+clear 
+git push 
+git commit
+git remote -v
