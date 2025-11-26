@@ -2,5 +2,3 @@ clear
 git push 
 git commit
 git remote -v
-
-this is new one so do it pull in the local machine 
